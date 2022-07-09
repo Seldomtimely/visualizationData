@@ -1,0 +1,2564 @@
+{
+   "@version": "0.9.0",
+   "node": {
+      "@TEXT": "Computer Books",
+      "@FOLDED": "false",
+      "@POSITION": "right",
+      "@ID": "60244a6de00d6d672c19d37a",
+      "@X_COGGLE_POSX": "-1017",
+      "@X_COGGLE_POSY": "-379",
+      "edge": {
+         "@COLOR": "#b4b4b4"
+      },
+      "font": {
+         "@NAME": "Helvetica",
+         "@SIZE": "17"
+      },
+      "node": [
+         {
+            "@TEXT": "Languages",
+            "@FOLDED": "false",
+            "@POSITION": "left",
+            "@ID": "79504e219574c7db0db93d42",
+            "edge": {
+               "@COLOR": "#988ee3"
+            },
+            "font": {
+               "@NAME": "Helvetica",
+               "@SIZE": "15"
+            },
+            "node": [
+               {
+                  "@TEXT": "Historical Languages",
+                  "@FOLDED": "false",
+                  "@POSITION": "left",
+                  "@ID": "dae0fb6102698c9386f0ed7d",
+                  "edge": {
+                     "@COLOR": "#8c83e2"
+                  },
+                  "font": {
+                     "@NAME": "Helvetica",
+                     "@SIZE": "13"
+                  },
+                  "node": [
+                     {
+                        "@TEXT": "COBOL",
+                        "@FOLDED": "false",
+                        "@POSITION": "left",
+                        "@ID": "b6538beb6aac8b19d8c8d27a",
+                        "edge": {
+                           "@COLOR": "#8b84e1"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        }
+                     },
+                     {
+                        "@TEXT": "Lisp",
+                        "@FOLDED": "false",
+                        "@POSITION": "left",
+                        "@ID": "61d84cf14e872780d9eac855",
+                        "edge": {
+                           "@COLOR": "#938ce3"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        }
+                     },
+                     {
+                        "@TEXT": "FORTRAN",
+                        "@FOLDED": "false",
+                        "@POSITION": "left",
+                        "@ID": "a9766c10b9e7c5d71cfcbe2d",
+                        "edge": {
+                           "@COLOR": "#8d86e1"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        }
+                     }
+                  ]
+               },
+               {
+                  "@TEXT": "Specialty Languages",
+                  "@FOLDED": "false",
+                  "@POSITION": "left",
+                  "@ID": "2d3ec24d8d319c7e07d0c1f8",
+                  "edge": {
+                     "@COLOR": "#958de4"
+                  },
+                  "font": {
+                     "@NAME": "Helvetica",
+                     "@SIZE": "13"
+                  },
+                  "node": {
+                     "@TEXT": "ABAP (Advanced Business Applicaiton Programming) Uses Java, C, C++, & Python as base. ",
+                     "@FOLDED": "false",
+                     "@POSITION": "left",
+                     "@ID": "1a9858dbf6249e1b07b10839",
+                     "edge": {
+                        "@COLOR": "#8f88e1"
+                     },
+                     "font": {
+                        "@NAME": "Helvetica",
+                        "@SIZE": "12"
+                     }
+                  }
+               },
+               {
+                  "@TEXT": "Low-Level",
+                  "@FOLDED": "false",
+                  "@POSITION": "left",
+                  "@ID": "532deafb76515bd369fb0f0b",
+                  "edge": {
+                     "@COLOR": "#9188e1"
+                  },
+                  "font": {
+                     "@NAME": "Helvetica",
+                     "@SIZE": "13"
+                  },
+                  "node": [
+                     {
+                        "@TEXT": "Procedural",
+                        "@FOLDED": "false",
+                        "@POSITION": "left",
+                        "@ID": "b3d021b99d343a9cd7e06a79",
+                        "edge": {
+                           "@COLOR": "#877fde"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": {
+                           "@TEXT": "C",
+                           "@FOLDED": "false",
+                           "@POSITION": "left",
+                           "@ID": "24fc8dad14a7abf53978f3ad",
+                           "edge": {
+                              "@COLOR": "#847edb"
+                           },
+                           "font": {
+                              "@NAME": "Helvetica",
+                              "@SIZE": "12"
+                           }
+                        }
+                     },
+                     {
+                        "@TEXT": "Multi-paradigm",
+                        "@FOLDED": "false",
+                        "@POSITION": "left",
+                        "@ID": "b6c9ee927adaff5257584049",
+                        "edge": {
+                           "@COLOR": "#8b84df"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": {
+                           "@TEXT": "C++",
+                           "@FOLDED": "false",
+                           "@POSITION": "left",
+                           "@ID": "b7be9915dd2ff8c7a8940bbc",
+                           "edge": {
+                              "@COLOR": "#8781de"
+                           },
+                           "font": {
+                              "@NAME": "Helvetica",
+                              "@SIZE": "12"
+                           }
+                        }
+                     }
+                  ]
+               },
+               {
+                  "@TEXT": "High-Level",
+                  "@FOLDED": "false",
+                  "@POSITION": "left",
+                  "@ID": "4c5fa2add3936be2d08fd7d5",
+                  "edge": {
+                     "@COLOR": "#968de2"
+                  },
+                  "font": {
+                     "@NAME": "Helvetica",
+                     "@SIZE": "13"
+                  },
+                  "node": [
+                     {
+                        "@TEXT": "Procedural",
+                        "@FOLDED": "false",
+                        "@POSITION": "left",
+                        "@ID": "7bc2957c84286c74b47f63a4",
+                        "edge": {
+                           "@COLOR": "#9a93e4"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": {
+                           "@TEXT": "C",
+                           "@FOLDED": "false",
+                           "@POSITION": "left",
+                           "@ID": "b8b76679c553e270b8d071b5",
+                           "edge": {
+                              "@COLOR": "#a09be4"
+                           },
+                           "font": {
+                              "@NAME": "Helvetica",
+                              "@SIZE": "12"
+                           }
+                        }
+                     },
+                     {
+                        "@TEXT": "Functional",
+                        "@FOLDED": "false",
+                        "@POSITION": "left",
+                        "@ID": "4e758084f9e41455eff9582f",
+                        "edge": {
+                           "@COLOR": "#948de0"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": [
+                           {
+                              "@TEXT": "Elixir",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "dff798f0bf004726eaaa611c",
+                              "edge": {
+                                 "@COLOR": "#9792e3"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "SML",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "bb11c4030fe1c144939935d4",
+                              "edge": {
+                                 "@COLOR": "#8b85e0"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "SQL",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "891b3c22487bd653a5f42e1f",
+                              "edge": {
+                                 "@COLOR": "#8e88df"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Haskell",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "b0e553b32089f36e3765d9c0",
+                              "edge": {
+                                 "@COLOR": "#9590e1"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Scala",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "da7fe00a6618ca469a3e8a40",
+                              "edge": {
+                                 "@COLOR": "#948edf"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Clojure (dialect of Lisp)",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "055743c743ff2a20e9405a83",
+                              "edge": {
+                                 "@COLOR": "#918be0"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Erlang",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "a938758fbde8a8d44861f567",
+                              "edge": {
+                                 "@COLOR": "#9c97e2"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           }
+                        ]
+                     },
+                     {
+                        "@TEXT": "Object-Oriented",
+                        "@FOLDED": "false",
+                        "@POSITION": "left",
+                        "@ID": "0f29e88381670f012b64460b",
+                        "edge": {
+                           "@COLOR": "#9992e3"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": {
+                           "@TEXT": "Java",
+                           "@FOLDED": "false",
+                           "@POSITION": "left",
+                           "@ID": "e65ddca3a8b8a7b5c95dde34",
+                           "edge": {
+                              "@COLOR": "#9b96e3"
+                           },
+                           "font": {
+                              "@NAME": "Helvetica",
+                              "@SIZE": "12"
+                           }
+                        }
+                     },
+                     {
+                        "@TEXT": "Multi-paradigm",
+                        "@FOLDED": "false",
+                        "@POSITION": "left",
+                        "@ID": "ca9ce1aa88cd8844df311510",
+                        "edge": {
+                           "@COLOR": "#9d97e4"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": [
+                           {
+                              "@TEXT": "Interpreted",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "8c39df192b9b33fa0576af4b",
+                              "edge": {
+                                 "@COLOR": "#918ce3"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": [
+                                 {
+                                    "@TEXT": "Perl (Perl6 = Raku; Perl 5 = Perl; processing of text files & strings)",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "left",
+                                    "@ID": "edc84f5b7e4b5dd4ce2e9e4b",
+                                    "edge": {
+                                       "@COLOR": "#8682e1"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "Ruby",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "left",
+                                    "@ID": "fd60568eb86e0a3102a9adb3",
+                                    "edge": {
+                                       "@COLOR": "#8985e0"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "Python",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "left",
+                                    "@ID": "c8f8c550a01899a976764940",
+                                    "edge": {
+                                       "@COLOR": "#9491e6"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    },
+                                    "node": {
+                                       "@TEXT": "Libraries",
+                                       "@FOLDED": "false",
+                                       "@POSITION": "left",
+                                       "@ID": "e2adf2174a82cb7fedf6adc4",
+                                       "edge": {
+                                          "@COLOR": "#8c8be4"
+                                       },
+                                       "font": {
+                                          "@NAME": "Helvetica",
+                                          "@SIZE": "12"
+                                       },
+                                       "node": {
+                                          "@TEXT": "OpenCV(computer vision language)",
+                                          "@FOLDED": "false",
+                                          "@POSITION": "left",
+                                          "@ID": "7a936edeb9bb38214901b804",
+                                          "edge": {
+                                             "@COLOR": "#9293e7"
+                                          },
+                                          "font": {
+                                             "@NAME": "Helvetica",
+                                             "@SIZE": "12"
+                                          }
+                                       }
+                                    }
+                                 }
+                              ]
+                           },
+                           {
+                              "@TEXT": "C++",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "98ecaaf39d1b4cd97587e0c8",
+                              "edge": {
+                                 "@COLOR": "#9893e4"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "C#",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "e125fba526875cf04566e90c",
+                              "edge": {
+                                 "@COLOR": "#9d98e5"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "ABAP (Advanced Business Application Programming)",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "564c70cac01ccebdae2876f0",
+                              "edge": {
+                                 "@COLOR": "#a29ee7"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Kotlin",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "f5bc1758c6c4bba2ed71506d",
+                              "edge": {
+                                 "@COLOR": "#9c97e4"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "JavaScript",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "e0309d5ff15d2f086c5229e0",
+                              "edge": {
+                                 "@COLOR": "#948fe4"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": [
+                                 {
+                                    "@TEXT": "Supersets",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "left",
+                                    "@ID": "a5d9991c0dc825b05ca2ef62",
+                                    "edge": {
+                                       "@COLOR": "#9a97e6"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    },
+                                    "node": {
+                                       "@TEXT": "Typescript (developed by Microsoft)",
+                                       "@FOLDED": "false",
+                                       "@POSITION": "left",
+                                       "@ID": "cc4ff783a521993bd12f8520",
+                                       "edge": {
+                                          "@COLOR": "#a2a1e8"
+                                       },
+                                       "font": {
+                                          "@NAME": "Helvetica",
+                                          "@SIZE": "12"
+                                       }
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "Libraries",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "left",
+                                    "@ID": "a61aa92061a32bbde866325c",
+                                    "edge": {
+                                       "@COLOR": "#9592e3"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    },
+                                    "node": {
+                                       "@TEXT": "React (User Interfaces)",
+                                       "@FOLDED": "false",
+                                       "@POSITION": "left",
+                                       "@ID": "a8b02b3cb95a65844551bbab",
+                                       "edge": {
+                                          "@COLOR": "#9e9de4"
+                                       },
+                                       "font": {
+                                          "@NAME": "Helvetica",
+                                          "@SIZE": "12"
+                                       }
+                                    }
+                                 }
+                              ]
+                           },
+                           {
+                              "@TEXT": "Go Language (developed by Google)",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "09d29a11bfdfd95b87e31ca9",
+                              "edge": {
+                                 "@COLOR": "#a39fe4"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "RUST",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "b042c6efb8ebd911af4f675f",
+                              "edge": {
+                                 "@COLOR": "#9c97e2"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "MATLAB",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "5f46ac54fa3d61b14c62f71d",
+                              "edge": {
+                                 "@COLOR": "#9b96e5"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Swift (by Apple)",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "271b58c86f23844385cab400",
+                              "edge": {
+                                 "@COLOR": "#9e99e6"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Julia (dnamic)",
+                              "@FOLDED": "false",
+                              "@POSITION": "left",
+                              "@ID": "6af9e7a06bb00da3bf01ea4a",
+                              "edge": {
+                                 "@COLOR": "#a19de4"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "@TEXT": "Conceptual/Non-Denominational Content",
+            "@FOLDED": "false",
+            "@POSITION": "left",
+            "@ID": "186b68186b88444be266f79c",
+            "edge": {
+               "@COLOR": "#e096e9"
+            },
+            "font": {
+               "@NAME": "Helvetica",
+               "@SIZE": "15"
+            },
+            "node": [
+               {
+                  "@TEXT": "Inter-Process Communication (IPC)",
+                  "@FOLDED": "false",
+                  "@POSITION": "left",
+                  "@ID": "d5e52fce8a65386e15f0d83a",
+                  "edge": {
+                     "@COLOR": "#df98e9"
+                  },
+                  "font": {
+                     "@NAME": "Helvetica",
+                     "@SIZE": "13"
+                  }
+               },
+               {
+                  "@TEXT": "Data Policy",
+                  "@FOLDED": "false",
+                  "@POSITION": "left",
+                  "@ID": "e1dbe1f709770c52aeea075a",
+                  "edge": {
+                     "@COLOR": "#df97ea"
+                  },
+                  "font": {
+                     "@NAME": "Helvetica",
+                     "@SIZE": "13"
+                  },
+                  "node": {
+                     "@TEXT": "Data Governance",
+                     "@FOLDED": "false",
+                     "@POSITION": "left",
+                     "@ID": "99965e4636279fb2a71c17e3",
+                     "edge": {
+                        "@COLOR": "#e0a0eb"
+                     },
+                     "font": {
+                        "@NAME": "Helvetica",
+                        "@SIZE": "12"
+                     }
+                  }
+               }
+            ]
+         },
+         {
+            "@TEXT": "Software",
+            "@FOLDED": "false",
+            "@POSITION": "right",
+            "@ID": "ef64b0ae862196d01e25128b",
+            "edge": {
+               "@COLOR": "#67d7c4"
+            },
+            "font": {
+               "@NAME": "Helvetica",
+               "@SIZE": "15"
+            },
+            "node": [
+               {
+                  "@TEXT": "System",
+                  "@FOLDED": "false",
+                  "@POSITION": "right",
+                  "@ID": "fbe8ceb885afc98f84710f67",
+                  "edge": {
+                     "@COLOR": "#6ed8c4"
+                  },
+                  "font": {
+                     "@NAME": "Helvetica",
+                     "@SIZE": "13"
+                  },
+                  "node": [
+                     {
+                        "@TEXT": "Kernels",
+                        "@FOLDED": "false",
+                        "@POSITION": "right",
+                        "@ID": "400118e50482a84ba2e922d9",
+                        "edge": {
+                           "@COLOR": "#6cd6c0"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": [
+                           {
+                              "@TEXT": "GNU Mach",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "e128be37dc99955913c24eb7",
+                              "edge": {
+                                 "@COLOR": "#62d6bc"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "GNU Hurd",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "70be9fd9608e4327ad685aea",
+                              "edge": {
+                                 "@COLOR": "#6ad4bc"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Linux Kernel",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "ea1039aa7817ff16efe0753a",
+                              "edge": {
+                                 "@COLOR": "#70d9c2"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Unix",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "3ddd636052bad92353d20532",
+                              "edge": {
+                                 "@COLOR": "#6ed4bd"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Solaris ",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "53dccc36c59232e7764ad085",
+                              "edge": {
+                                 "@COLOR": "#62d6bc"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Darwin",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "4f92b678b3c672ad13fc2b95",
+                              "edge": {
+                                 "@COLOR": "#71d5be"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Minix",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "e8846436f794e983eee077ac",
+                              "edge": {
+                                 "@COLOR": "#67d7be"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           }
+                        ]
+                     },
+                     {
+                        "@TEXT": "OS-Level Virtualization",
+                        "@FOLDED": "false",
+                        "@POSITION": "right",
+                        "@ID": "85c27dd2dd8dfecf18317d89",
+                        "edge": {
+                           "@COLOR": "#72dac5"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": [
+                           {
+                              "@TEXT": "Kernel-Containers",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "7aa9933ffd9b4ade6c76d7eb",
+                              "edge": {
+                                 "@COLOR": "#6bd9c1"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": [
+                                 {
+                                    "@TEXT": "Windows Containers",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "357cc3ffbc72f1cf5ad21c50",
+                                    "edge": {
+                                       "@COLOR": "#71dbc2"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "Docker",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "1dfd33acfaf41644af8101c2",
+                                    "edge": {
+                                       "@COLOR": "#62d6bb"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "Solaris Containers/Zones",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "4fc47943ac869dafdcb3086c",
+                                    "edge": {
+                                       "@COLOR": "#67d9be"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "Virtual Private Servers (VPS)",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "8bd39ff9daf7859debb5eeb2",
+                                    "edge": {
+                                       "@COLOR": "#66dabf"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 }
+                              ]
+                           },
+                           {
+                              "@TEXT": "Orchestration/Container-Orchestration",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "9ac960ede80f021691fb9afc",
+                              "edge": {
+                                 "@COLOR": "#6cd6bf"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": {
+                                 "@TEXT": "Kubernetes",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "19f464c83c9dfa1957859932",
+                                 "edge": {
+                                    "@COLOR": "#70dac1"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              }
+                           }
+                        ]
+                     },
+                     {
+                        "@TEXT": "OS(Operating System)",
+                        "@FOLDED": "false",
+                        "@POSITION": "right",
+                        "@ID": "5dc413b877be74b5d7e1e809",
+                        "edge": {
+                           "@COLOR": "#70d8c3"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": [
+                           {
+                              "@TEXT": "Android",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "505d7a7331cc74d7daccd055",
+                              "edge": {
+                                 "@COLOR": "#67d5bd"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "iOS",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "120f423adbc28da658a06020",
+                              "edge": {
+                                 "@COLOR": "#6dd9c1"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "OSX",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "5cc70c9c50f2fb4c4787ffe9",
+                              "edge": {
+                                 "@COLOR": "#79dbc6"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Linux Distribution",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "14fbc33bafc0b296f44a4ba2",
+                              "edge": {
+                                 "@COLOR": "#71d5bf"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": {
+                                 "@TEXT": "Ubuntu",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "24dabee75629aaff49129584",
+                                 "edge": {
+                                    "@COLOR": "#79d5bf"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              }
+                           },
+                           {
+                              "@TEXT": "Windows",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "5d850d2b0ac65a4e583710ae",
+                              "edge": {
+                                 "@COLOR": "#66d8bf"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           }
+                        ]
+                     },
+                     {
+                        "@TEXT": "Security Systems",
+                        "@FOLDED": "false",
+                        "@POSITION": "right",
+                        "@ID": "fb3ff7bd3c5481e7d3b60607",
+                        "edge": {
+                           "@COLOR": "#6fd9c3"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": [
+                           {
+                              "@TEXT": "IoT Security",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "f0ec76e8425b98e1fab6c984",
+                              "edge": {
+                                 "@COLOR": "#77dbc5"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Network Security",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "fb1877fbc9cf39bdc11381f9",
+                              "edge": {
+                                 "@COLOR": "#6dd7bf"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "OS Security",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "add890ee42ea10f95dd36790",
+                              "edge": {
+                                 "@COLOR": "#67d9c0"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": [
+                                 {
+                                    "@TEXT": "Antivirus",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "0d9a3eff5c240b09163c49fd",
+                                    "edge": {
+                                       "@COLOR": "#62d8bc"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "Firewalls",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "c9059aeb8619af08c87db4d2",
+                                    "edge": {
+                                       "@COLOR": "#6fddc3"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    },
+                                    "node": [
+                                       {
+                                          "@TEXT": "Cisco ASA",
+                                          "@FOLDED": "false",
+                                          "@POSITION": "right",
+                                          "@ID": "e48a97a4cb1caca3fb94f468",
+                                          "edge": {
+                                             "@COLOR": "#6cdabe"
+                                          },
+                                          "font": {
+                                             "@NAME": "Helvetica",
+                                             "@SIZE": "12"
+                                          }
+                                       },
+                                       {
+                                          "@TEXT": "Cisco Firepower 1010 ngfw",
+                                          "@FOLDED": "false",
+                                          "@POSITION": "right",
+                                          "@ID": "f9c75be7e59f3562bb0dc495",
+                                          "edge": {
+                                             "@COLOR": "#66dcbe"
+                                          },
+                                          "font": {
+                                             "@NAME": "Helvetica",
+                                             "@SIZE": "12"
+                                          }
+                                       }
+                                    ]
+                                 }
+                              ]
+                           },
+                           {
+                              "@TEXT": "Back & Recovery Tools",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "d3541f0db0164a10cb259d2a",
+                              "edge": {
+                                 "@COLOR": "#71d9c2"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Software Security",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "84ee9ad22673fb4a30fed9fc",
+                              "edge": {
+                                 "@COLOR": "#70d8c0"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Cloud Security",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "f1cbe1658c2b2ba393857530",
+                              "edge": {
+                                 "@COLOR": "#69d5bd"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "@TEXT": "Applications",
+                  "@FOLDED": "false",
+                  "@POSITION": "right",
+                  "@ID": "e9ddd5f3a16ac06cffb58783",
+                  "edge": {
+                     "@COLOR": "#60d6c0"
+                  },
+                  "font": {
+                     "@NAME": "Helvetica",
+                     "@SIZE": "13"
+                  },
+                  "node": [
+                     {
+                        "@TEXT": "Cloud Architecture",
+                        "@FOLDED": "false",
+                        "@POSITION": "right",
+                        "@ID": "c86747c0d165ff16aa11a3ce",
+                        "edge": {
+                           "@COLOR": "#55d5bb"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": [
+                           {
+                              "@TEXT": "Cloud Service",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "41859d186c4d83ba233c88dc",
+                              "edge": {
+                                 "@COLOR": "#58d6ba"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": [
+                                 {
+                                    "@TEXT": "Oracle Cloud",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "8f1750189dbfb86b1ae9cd1c",
+                                    "edge": {
+                                       "@COLOR": "#5ed8bb"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "Amazon Web Services (AWS)",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "6912358844eff554a365c828",
+                                    "edge": {
+                                       "@COLOR": "#57d3b5"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "Microsoft Azure",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "db2040978033dbb75dbea65f",
+                                    "edge": {
+                                       "@COLOR": "#54d6b7"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "Google Cloud Platform",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "6310623f13ab7dcc19f44a30",
+                                    "edge": {
+                                       "@COLOR": "#53d7b7"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "IBM Cloud",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "526060d50d4d91e95503b92c",
+                                    "edge": {
+                                       "@COLOR": "#60d6ba"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "Alibaba Cloud",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "60aee698c015e134c509f92c",
+                                    "edge": {
+                                       "@COLOR": "#50d6b6"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 }
+                              ]
+                           },
+                           {
+                              "@TEXT": "Twilio (Cloud Communications Platforms)",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "c3c3bcdacfdd0c2b42e7e040",
+                              "edge": {
+                                 "@COLOR": "#5cd6bb"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           }
+                        ]
+                     },
+                     {
+                        "@TEXT": "Web Services",
+                        "@FOLDED": "false",
+                        "@POSITION": "right",
+                        "@ID": "ed55a7d487b0aa68b218d0d8",
+                        "edge": {
+                           "@COLOR": "#67d7c0"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        }
+                     },
+                     {
+                        "@TEXT": "Non Relational Database Application",
+                        "@FOLDED": "false",
+                        "@POSITION": "right",
+                        "@ID": "554c93b44342af9bb2c6e62d",
+                        "edge": {
+                           "@COLOR": "#64d6bf"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": [
+                           {
+                              "@TEXT": "Document Oriented Database APP",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "dff60a7d4c42cd72f6bd8923",
+                              "edge": {
+                                 "@COLOR": "#6dd5bf"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": {
+                                 "@TEXT": "MongoDB",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "ceeff13798c34a2ce6b5fbd0",
+                                 "edge": {
+                                    "@COLOR": "#6cd6be"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              }
+                           },
+                           {
+                              "@TEXT": "NoSQL",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "8f95e8446d27dc0d8be968de",
+                              "edge": {
+                                 "@COLOR": "#6ad8c0"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           }
+                        ]
+                     },
+                     {
+                        "@TEXT": "RDBMS (Relational Database Management Systems) ",
+                        "@FOLDED": "false",
+                        "@POSITION": "right",
+                        "@ID": "ea1fba080f410de6c38ada96",
+                        "edge": {
+                           "@COLOR": "#5fd3bc"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": [
+                           {
+                              "@TEXT": "Oracle",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "ef9a98318616ba0c3861a8cf",
+                              "edge": {
+                                 "@COLOR": "#61d3ba"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "FileMaker",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "894876d3983dbab615434017",
+                              "edge": {
+                                 "@COLOR": "#60d4bb"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Oracle RDB",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "1ca7642884105e8fa436f118",
+                              "edge": {
+                                 "@COLOR": "#66d6be"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Microsoft SQL Server",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "2fb4781ba8ce8e94f5d5e711",
+                              "edge": {
+                                 "@COLOR": "#5fd1b8"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           }
+                        ]
+                     },
+                     {
+                        "@TEXT": "Web Applications",
+                        "@FOLDED": "false",
+                        "@POSITION": "right",
+                        "@ID": "2ddf80a10e2f7169467431d7",
+                        "edge": {
+                           "@COLOR": "#69d8c2"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": [
+                           {
+                              "@TEXT": "Cloud Suites ",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "26fa153c8d0f740b0a214566",
+                              "edge": {
+                                 "@COLOR": "#6edbc4"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": [
+                                 {
+                                    "@TEXT": "Adobe Creative Cloud",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "8068b3b6f002e6f2425c5a81",
+                                    "edge": {
+                                       "@COLOR": "#65dcc1"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "Microsoft Office 365",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "9b8052a727b18b9f390abbb7",
+                                    "edge": {
+                                       "@COLOR": "#6cd9c0"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 }
+                              ]
+                           },
+                           {
+                              "@TEXT": "Front-End Compilers ",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "4e506d1f1cb77d40a2ca6a67",
+                              "edge": {
+                                 "@COLOR": "#5fd8be"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": {
+                                 "@TEXT": "Svelte",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "8f84272ad2bf545170fcae5b",
+                                 "edge": {
+                                    "@COLOR": "#5fd6ba"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              }
+                           },
+                           {
+                              "@TEXT": "CMS",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "0386e4bf09c1f80e9aa4d128",
+                              "edge": {
+                                 "@COLOR": "#73d8c2"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": [
+                                 {
+                                    "@TEXT": "Drupal",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "d196a3f1857da8873ee993f0",
+                                    "edge": {
+                                       "@COLOR": "#6dd8bf"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "Enterprise CMS",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "c969c934a0b11d298cb3b6f2",
+                                    "edge": {
+                                       "@COLOR": "#79dcc5"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    },
+                                    "node": {
+                                       "@TEXT": "SharePoint",
+                                       "@FOLDED": "false",
+                                       "@POSITION": "right",
+                                       "@ID": "6c3c69d4e1cb556a213edbd6",
+                                       "edge": {
+                                          "@COLOR": "#7bdac2"
+                                       },
+                                       "font": {
+                                          "@NAME": "Helvetica",
+                                          "@SIZE": "12"
+                                       }
+                                    }
+                                 }
+                              ]
+                           },
+                           {
+                              "@TEXT": "API (Web Service Application Programming Interface)",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "1b89f1a6b6fbe05a8e2c3759",
+                              "edge": {
+                                 "@COLOR": "#67dac1"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "e-Commerce",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "1f8d53f9c5837fac96682315",
+                              "edge": {
+                                 "@COLOR": "#5ed7bd"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": {
+                                 "@TEXT": "Gatsby.js (static site generator)",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "71e95e97af510f7c41d15641",
+                                 "edge": {
+                                    "@COLOR": "#57d8ba"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              }
+                           },
+                           {
+                              "@TEXT": "Server-side Web Application Frameworks",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "1ed9a2755ce287edcd23f2b1",
+                              "edge": {
+                                 "@COLOR": "#6ed7c1"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": {
+                                 "@TEXT": "Ruby on Rails",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "216847fdfcbdd397673c526f",
+                                 "edge": {
+                                    "@COLOR": "#69d4bc"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              }
+                           }
+                        ]
+                     },
+                     {
+                        "@TEXT": "Configuration Management (CM)",
+                        "@FOLDED": "false",
+                        "@POSITION": "right",
+                        "@ID": "d3390d80b7012fd263dfca65",
+                        "edge": {
+                           "@COLOR": "#5ed6bd"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": {
+                           "@TEXT": "Microsoft PowerShell",
+                           "@FOLDED": "false",
+                           "@POSITION": "right",
+                           "@ID": "5241e7044d1dad7ad9ad22c5",
+                           "edge": {
+                              "@COLOR": "#54d6b9"
+                           },
+                           "font": {
+                              "@NAME": "Helvetica",
+                              "@SIZE": "12"
+                           }
+                        }
+                     },
+                     {
+                        "@TEXT": "Desktop",
+                        "@FOLDED": "false",
+                        "@POSITION": "right",
+                        "@ID": "d6fee5078bc479106058debb",
+                        "edge": {
+                           "@COLOR": "#6cd6c1"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": [
+                           {
+                              "@TEXT": "Microsoft Power BI (analysis & viz)",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "6bd2e26a1a433a6a89c0d77e",
+                              "edge": {
+                                 "@COLOR": "#71d9c3"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Tableau (data viz)",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "48a8df96a780ae05808448eb",
+                              "edge": {
+                                 "@COLOR": "#6fd5bf"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "QGIS (geospatial data - geographic information system - free, open-source)",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "1736cf1beb448d72492336df",
+                              "edge": {
+                                 "@COLOR": "#68d4bd"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "CAD",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "d63d713ee824ef1e69eef411",
+                              "edge": {
+                                 "@COLOR": "#74d6c1"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": [
+                                 {
+                                    "@TEXT": "CREO SIMULATION (Product Design for Distinct Manufacturers)",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "0e3fafd207eec23ace8c35bd",
+                                    "edge": {
+                                       "@COLOR": "#70d2bb"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "AUTOCAD",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "e55416abeae28b2ac1d48b24",
+                                    "edge": {
+                                       "@COLOR": "#7dd9c4"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "SOLIDWORKS",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "209c01755679dc438e9e142a",
+                                    "edge": {
+                                       "@COLOR": "#6cd4bc"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "ADOBE",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "d9fc148def4d9ba5b83fb2ca",
+                                    "edge": {
+                                       "@COLOR": "#78dac3"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    },
+                                    "node": {
+                                       "@TEXT": "Adobe Illustrator",
+                                       "@FOLDED": "false",
+                                       "@POSITION": "right",
+                                       "@ID": "fdd013098af06adf8cd070c7",
+                                       "edge": {
+                                          "@COLOR": "#7bdbc3"
+                                       },
+                                       "font": {
+                                          "@NAME": "Helvetica",
+                                          "@SIZE": "12"
+                                       }
+                                    }
+                                 },
+                                 {
+                                    "@TEXT": "",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "1a9c19521a65e6ed510c251c",
+                                    "edge": {
+                                       "@COLOR": "#71d3bc"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    },
+                                    "node": [
+                                       {
+                                          "@TEXT": "Adobe After Effects",
+                                          "@FOLDED": "false",
+                                          "@POSITION": "right",
+                                          "@ID": "ac0ef1841aeff4a228d295d0",
+                                          "edge": {
+                                             "@COLOR": "#74d6bd"
+                                          },
+                                          "font": {
+                                             "@NAME": "Helvetica",
+                                             "@SIZE": "12"
+                                          }
+                                       },
+                                       {
+                                          "@TEXT": "Adobe InDesign",
+                                          "@FOLDED": "false",
+                                          "@POSITION": "right",
+                                          "@ID": "7f8b55f6a0de0ae89da6cac4",
+                                          "edge": {
+                                             "@COLOR": "#6dd3b9"
+                                          },
+                                          "font": {
+                                             "@NAME": "Helvetica",
+                                             "@SIZE": "12"
+                                          }
+                                       },
+                                       {
+                                          "@TEXT": "Adobe Photoshop",
+                                          "@FOLDED": "false",
+                                          "@POSITION": "right",
+                                          "@ID": "a8ca217aa05af52be0a9c911",
+                                          "edge": {
+                                             "@COLOR": "#6cd4ba"
+                                          },
+                                          "font": {
+                                             "@NAME": "Helvetica",
+                                             "@SIZE": "12"
+                                          }
+                                       },
+                                       {
+                                          "@TEXT": "Adobe Illustrator ",
+                                          "@FOLDED": "false",
+                                          "@POSITION": "right",
+                                          "@ID": "912ec6739126d335d3cf8363",
+                                          "edge": {
+                                             "@COLOR": "#6fd1b9"
+                                          },
+                                          "font": {
+                                             "@NAME": "Helvetica",
+                                             "@SIZE": "12"
+                                          }
+                                       },
+                                       {
+                                          "@TEXT": "Adobe Premiere Pro",
+                                          "@FOLDED": "false",
+                                          "@POSITION": "right",
+                                          "@ID": "802b5268e40c62b70e82eaa4",
+                                          "edge": {
+                                             "@COLOR": "#76d6be"
+                                          },
+                                          "font": {
+                                             "@NAME": "Helvetica",
+                                             "@SIZE": "12"
+                                          }
+                                       },
+                                       {
+                                          "@TEXT": "Adobe Bridge",
+                                          "@FOLDED": "false",
+                                          "@POSITION": "right",
+                                          "@ID": "6f759ed4cf40b24a2cdf7bd0",
+                                          "edge": {
+                                             "@COLOR": "#75d7be"
+                                          },
+                                          "font": {
+                                             "@NAME": "Helvetica",
+                                             "@SIZE": "12"
+                                          }
+                                       }
+                                    ]
+                                 },
+                                 {
+                                    "@TEXT": "Autodesk",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "39e49a1c3f6bba7828d0e061",
+                                    "edge": {
+                                       "@COLOR": "#72d6bf"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    },
+                                    "node": [
+                                       {
+                                          "@TEXT": "3Ds Max",
+                                          "@FOLDED": "false",
+                                          "@POSITION": "right",
+                                          "@ID": "29ec900745103c15b50c508d",
+                                          "edge": {
+                                             "@COLOR": "#79d9c1"
+                                          },
+                                          "font": {
+                                             "@NAME": "Helvetica",
+                                             "@SIZE": "12"
+                                          }
+                                       },
+                                       {
+                                          "@TEXT": "Maya",
+                                          "@FOLDED": "false",
+                                          "@POSITION": "right",
+                                          "@ID": "d2301699208508bf9e022efe",
+                                          "edge": {
+                                             "@COLOR": "#6bd7bc"
+                                          },
+                                          "font": {
+                                             "@NAME": "Helvetica",
+                                             "@SIZE": "12"
+                                          }
+                                       }
+                                    ]
+                                 }
+                              ]
+                           },
+                           {
+                              "@TEXT": "System Design Platform",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "8e8099fe59a28123c67a798c",
+                              "edge": {
+                                 "@COLOR": "#69d7bf"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": {
+                                 "@TEXT": "Visual Programming Language Environments",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "3da9ed5c774cca89690458a3",
+                                 "edge": {
+                                    "@COLOR": "#6ed6be"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 },
+                                 "node": {
+                                    "@TEXT": "Labview",
+                                    "@FOLDED": "false",
+                                    "@POSITION": "right",
+                                    "@ID": "eeab157fd0c0bbfe82234a45",
+                                    "edge": {
+                                       "@COLOR": "#67d7bb"
+                                    },
+                                    "font": {
+                                       "@NAME": "Helvetica",
+                                       "@SIZE": "12"
+                                    }
+                                 }
+                              }
+                           },
+                           {
+                              "@TEXT": "Audio Engineering Software ",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "23397a2892c8710e3c80d78a",
+                              "edge": {
+                                 "@COLOR": "#67d7bf"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": {
+                                 "@TEXT": "Pro Tools",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "a5033fb4eb1783f6c86f8376",
+                                 "edge": {
+                                    "@COLOR": "#67d5bc"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              }
+                           }
+                        ]
+                     },
+                     {
+                        "@TEXT": "Office Suites ",
+                        "@FOLDED": "false",
+                        "@POSITION": "right",
+                        "@ID": "91c5aad71976a1427beca166",
+                        "edge": {
+                           "@COLOR": "#6bd7c1"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": {
+                           "@TEXT": "Microsoft Office",
+                           "@FOLDED": "false",
+                           "@POSITION": "right",
+                           "@ID": "8f3d424f075e0842a4f8a4f9",
+                           "edge": {
+                              "@COLOR": "#6ed8c1"
+                           },
+                           "font": {
+                              "@NAME": "Helvetica",
+                              "@SIZE": "12"
+                           },
+                           "node": [
+                              {
+                                 "@TEXT": "Microsoft Visio",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "a5464e725b11de04dc33952a",
+                                 "edge": {
+                                    "@COLOR": "#72dac2"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              },
+                              {
+                                 "@TEXT": "Powerpoint",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "3c44ffbfbdd019329395090a",
+                                 "edge": {
+                                    "@COLOR": "#67d9be"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              },
+                              {
+                                 "@TEXT": "OneDrive",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "ba3e864f70f471d20b1bdd00",
+                                 "edge": {
+                                    "@COLOR": "#71dbc2"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              },
+                              {
+                                 "@TEXT": "Excel",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "a9be453e9ac55289839c40c1",
+                                 "edge": {
+                                    "@COLOR": "#71d7bf"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              },
+                              {
+                                 "@TEXT": "Word",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "76854d31ea0359f5db03d619",
+                                 "edge": {
+                                    "@COLOR": "#71d7bf"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              },
+                              {
+                                 "@TEXT": "Outlook",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "0805dd78105fa1de673b60eb",
+                                 "edge": {
+                                    "@COLOR": "#72dac2"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              },
+                              {
+                                 "@TEXT": "Sharepoint",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "ff65dfecd73d50acd020e3cb",
+                                 "edge": {
+                                    "@COLOR": "#73dbc3"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              },
+                              {
+                                 "@TEXT": "Word",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "b65291c61e87a0005ce4c447",
+                                 "edge": {
+                                    "@COLOR": "#6dd5bd"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              },
+                              {
+                                 "@TEXT": "Teams",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "ac77201035c621aef0ff081c",
+                                 "edge": {
+                                    "@COLOR": "#76d8c1"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              },
+                              {
+                                 "@TEXT": "OnePoint",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "43d54e7185e1a5ea4d7611c2",
+                                 "edge": {
+                                    "@COLOR": "#65d5bb"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              },
+                              {
+                                 "@TEXT": "Yammer",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "e4245794c17bdda3c7f4b012",
+                                 "edge": {
+                                    "@COLOR": "#6bd7be"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              }
+                           ]
+                        }
+                     }
+                  ]
+               },
+               {
+                  "@TEXT": "Software Framework",
+                  "@FOLDED": "false",
+                  "@POSITION": "right",
+                  "@ID": "d77886cde1e120f2c91cc120",
+                  "edge": {
+                     "@COLOR": "#66d4c0"
+                  },
+                  "font": {
+                     "@NAME": "Helvetica",
+                     "@SIZE": "13"
+                  },
+                  "node": [
+                     {
+                        "@TEXT": "PYTHON",
+                        "@FOLDED": "false",
+                        "@POSITION": "right",
+                        "@ID": "0e19bfb175f9268b05544b24",
+                        "edge": {
+                           "@COLOR": "#68d6c0"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": [
+                           {
+                              "@TEXT": "Kivy (open-source mobile app frmw)",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "486d01b7cdb256b4132a5e43",
+                              "edge": {
+                                 "@COLOR": "#68d6be"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "Salt Open (Event-driven IT automation open source)",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "68e25311787a6f45e52bc838",
+                              "edge": {
+                                 "@COLOR": "#63d7be"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           }
+                        ]
+                     },
+                     {
+                        "@TEXT": "DJANGO",
+                        "@FOLDED": "false",
+                        "@POSITION": "right",
+                        "@ID": "17ffbcf1d09f2926c45608e1",
+                        "edge": {
+                           "@COLOR": "#6bd7c1"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        }
+                     },
+                     {
+                        "@TEXT": ".NET",
+                        "@FOLDED": "false",
+                        "@POSITION": "right",
+                        "@ID": "10606f21c4501e68896e6c5d",
+                        "edge": {
+                           "@COLOR": "#65d7c0"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": [
+                           {
+                              "@TEXT": "ADO.NET",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "3bb7f3ca82ca95db0867183e",
+                              "edge": {
+                                 "@COLOR": "#63d7bd"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": {
+                                 "@TEXT": "Entity Framework (open-source object-relational mapping)",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "2f36a437a479b18750ff919c",
+                                 "edge": {
+                                    "@COLOR": "#6cd8be"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              }
+                           },
+                           {
+                              "@TEXT": "Server-Side Application Framework",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "3e6af96b02d6e100f99b7f71",
+                              "edge": {
+                                 "@COLOR": "#61d7bd"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": {
+                                 "@TEXT": "ASP.NET",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "bd368b71e66a5aeb90189bef",
+                                 "edge": {
+                                    "@COLOR": "#5ad2b6"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              }
+                           },
+                           {
+                              "@TEXT": "",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "bd1d59412e8949990351c4f2",
+                              "edge": {
+                                 "@COLOR": "#6cd6bf"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           }
+                        ]
+                     },
+                     {
+                        "@TEXT": "JS",
+                        "@FOLDED": "false",
+                        "@POSITION": "right",
+                        "@ID": "746d33e2d28f3c138d13c879",
+                        "edge": {
+                           "@COLOR": "#61d5be"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": [
+                           {
+                              "@TEXT": "Angular/Angular.JS",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "e87913c224e162382bb210a4",
+                              "edge": {
+                                 "@COLOR": "#68d8c0"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              },
+                              "node": {
+                                 "@TEXT": "Protractor (end-to-end testing for Angular)",
+                                 "@FOLDED": "false",
+                                 "@POSITION": "right",
+                                 "@ID": "b7fb9827e3292677127f11b1",
+                                 "edge": {
+                                    "@COLOR": "#62d6bb"
+                                 },
+                                 "font": {
+                                    "@NAME": "Helvetica",
+                                    "@SIZE": "12"
+                                 }
+                              }
+                           },
+                           {
+                              "@TEXT": "React.js",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "6ccf66bb4c6215d9a6952454",
+                              "edge": {
+                                 "@COLOR": "#65d7bf"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           },
+                           {
+                              "@TEXT": "VUE.js",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "a79d963499960695f18fa1dc",
+                              "edge": {
+                                 "@COLOR": "#5fd1b9"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           }
+                        ]
+                     },
+                     {
+                        "@TEXT": "Management Framework",
+                        "@FOLDED": "false",
+                        "@POSITION": "right",
+                        "@ID": "2d08143ca3a12801174b54fd",
+                        "edge": {
+                           "@COLOR": "#6bd5c0"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        },
+                        "node": {
+                           "@TEXT": "Microsoft",
+                           "@FOLDED": "false",
+                           "@POSITION": "right",
+                           "@ID": "d88878a63bfa8d0f6a8145fc",
+                           "edge": {
+                              "@COLOR": "#67d1ba"
+                           },
+                           "font": {
+                              "@NAME": "Helvetica",
+                              "@SIZE": "12"
+                           },
+                           "node": {
+                              "@TEXT": "POWERSHELL (task automation and configuration management)",
+                              "@FOLDED": "false",
+                              "@POSITION": "right",
+                              "@ID": "fecfbdcc4f56e2507003cdd4",
+                              "edge": {
+                                 "@COLOR": "#69d1b9"
+                              },
+                              "font": {
+                                 "@NAME": "Helvetica",
+                                 "@SIZE": "12"
+                              }
+                           }
+                        }
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "@TEXT": "IT Infrastructure",
+            "@FOLDED": "false",
+            "@POSITION": "left",
+            "@ID": "05b50646ddf5169296ba9ef9",
+            "edge": {
+               "@COLOR": "#7aa3e5"
+            },
+            "font": {
+               "@NAME": "Helvetica",
+               "@SIZE": "15"
+            },
+            "node": [
+               {
+                  "@TEXT": "IaC(Infrastructure as Code)",
+                  "@FOLDED": "false",
+                  "@POSITION": "left",
+                  "@ID": "114a3d8f5d8b8815ad37acbc",
+                  "edge": {
+                     "@COLOR": "#7ba6e6"
+                  },
+                  "font": {
+                     "@NAME": "Helvetica",
+                     "@SIZE": "13"
+                  },
+                  "node": {
+                     "@TEXT": "Terraform",
+                     "@FOLDED": "false",
+                     "@POSITION": "left",
+                     "@ID": "4756956c8fd4cb6f3a7f8845",
+                     "edge": {
+                        "@COLOR": "#7eaae7"
+                     },
+                     "font": {
+                        "@NAME": "Helvetica",
+                        "@SIZE": "12"
+                     },
+                     "node": {
+                        "@TEXT": "Hashicorp Configuration Language (HCL)",
+                        "@FOLDED": "false",
+                        "@POSITION": "left",
+                        "@ID": "3feed922e979899f41c1962a",
+                        "edge": {
+                           "@COLOR": "#74a6e7"
+                        },
+                        "font": {
+                           "@NAME": "Helvetica",
+                           "@SIZE": "12"
+                        }
+                     }
+                  }
+               },
+               {
+                  "@TEXT": "Security Operations Center",
+                  "@FOLDED": "false",
+                  "@POSITION": "left",
+                  "@ID": "edd94b7aaf197861893cf333",
+                  "edge": {
+                     "@COLOR": "#709fe5"
+                  },
+                  "font": {
+                     "@NAME": "Helvetica",
+                     "@SIZE": "13"
+                  }
+               }
+            ]
+         },
+         {
+            "@TEXT": "Hardware",
+            "@FOLDED": "false",
+            "@POSITION": "left",
+            "@ID": "29d23be5e922c6e932276cf9",
+            "edge": {
+               "@COLOR": "#9ed56b"
+            },
+            "font": {
+               "@NAME": "Helvetica",
+               "@SIZE": "15"
+            },
+            "node": [
+               {
+                  "@TEXT": "Single-Board Microcontroller (SBM)",
+                  "@FOLDED": "false",
+                  "@POSITION": "left",
+                  "@ID": "cf595b2c0ed27310419da986",
+                  "edge": {
+                     "@COLOR": "#9cd365"
+                  },
+                  "font": {
+                     "@NAME": "Helvetica",
+                     "@SIZE": "13"
+                  },
+                  "node": {
+                     "@TEXT": "Arduino",
+                     "@FOLDED": "false",
+                     "@POSITION": "left",
+                     "@ID": "4adcf4c6ea5bfd0dafd8e1f7",
+                     "edge": {
+                        "@COLOR": "#9ad35d"
+                     },
+                     "font": {
+                        "@NAME": "Helvetica",
+                        "@SIZE": "12"
+                     }
+                  }
+               },
+               {
+                  "@TEXT": "Single-Board Computers (SBC)",
+                  "@FOLDED": "false",
+                  "@POSITION": "left",
+                  "@ID": "93b2ed3696cd06e40db8d27f",
+                  "edge": {
+                     "@COLOR": "#9bd165"
+                  },
+                  "font": {
+                     "@NAME": "Helvetica",
+                     "@SIZE": "13"
+                  },
+                  "node": {
+                     "@TEXT": "Raspberry Pi",
+                     "@FOLDED": "false",
+                     "@POSITION": "left",
+                     "@ID": "38c69e45ba444a4648b699fb",
+                     "edge": {
+                        "@COLOR": "#98d15b"
+                     },
+                     "font": {
+                        "@NAME": "Helvetica",
+                        "@SIZE": "12"
+                     }
+                  }
+               }
+            ]
+         }
+      ]
+   }
+}
